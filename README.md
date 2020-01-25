@@ -1,4 +1,5 @@
 # Research Data Supporting "Understanding Structural and Electronic Properties of Bismuth Trihalides and Related Compounds"
+Zeyu Deng (dengzeyu@gmail.com)
 
 - Relax.7z
 DFT relaxed crystal structures
