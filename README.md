@@ -4,3 +4,5 @@
 DFT relaxed crystal structures
 - High_pressure_relax.zip
 DFT relaxed crystal structures upon pressure
+- Inputs.tar.gz
+VASP input files used in this paper
