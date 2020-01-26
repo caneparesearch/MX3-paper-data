@@ -1,4 +1,4 @@
-# Research Data Supporting manuscript Z. Deng, et al, "Understanding Structural and Electronic Properties of Bismuth Trihalides and Related Compounds", Inorg. Chem (2020) DOI: 10.1021/acs.inorgchem.9b03214
+# Research Data Supporting manuscript Z. Deng, et al. "Understanding Structural and Electronic Properties of Bismuth Trihalides and Related Compounds", Inorg. Chem (2020) DOI: 10.1021/acs.inorgchem.9b03214
 
 Zeyu Deng (dengzeyu@gmail.com)
 
